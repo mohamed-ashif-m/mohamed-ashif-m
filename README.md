@@ -2,7 +2,7 @@
 ## _-Frontend Web Developer-_
 > "Try Again Fail Again Fail Better"
 
-<img align="right" width="350" height="240" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="350" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ [ᴘᴏʀᴛꜰᴏʟɪᴏ](https://mohamed-ashif-m.github.io)🔍
 - ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴘᴜʀꜱɪɴɢ ʙ-ᴛᴇᴄʜ ɪɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴀɴᴅ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ📘
