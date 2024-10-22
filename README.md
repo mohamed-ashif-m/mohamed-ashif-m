@@ -37,6 +37,6 @@
 
 <a href="http://www.github.com/mohamed-ashif-m"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ashif-m&stroke=FF0303&background=000000&ring=68109B&fire=FF0303&currStreakNum=FF0303&currStreakLabel=FF0303&sideNums=68109B&sideLabels=68109B&dates=68109B&hide_border=true" /></a>
 
-<a href="http://www.github.com/roshan-lal-dia"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mohamed-ashif-m"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ashif-m&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
