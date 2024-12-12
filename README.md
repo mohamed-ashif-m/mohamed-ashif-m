@@ -36,7 +36,7 @@
 
 <h1>📊 GitHub Stats:</h1>
 
-<a href="http://www.github.com/mohamed-ashif-m"><img src="https://github-readme-stats.vercel.app/api?username=mohamed-ashif-m&show_icons=true&hide=&count_private=true&title_color=68109B&text_color=FF0303&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="roshan-lal-dia's GitHub stats" /></a>
+<a href="http://www.github.com/mohamed-ashif-m"><img src="https://github-readme-stats.vercel.app/api?username=mohamed-ashif-m&show_icons=true&hide=&count_private=true&title_color=68109B&text_color=FF0303&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Mohamed Ashif's GitHub stats" /></a>
 
 <a href="http://www.github.com/mohamed-ashif-m"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ashif-m&stroke=FF0303&background=000000&ring=68109B&fire=FF0303&currStreakNum=FF0303&currStreakLabel=FF0303&sideNums=68109B&sideLabels=68109B&dates=68109B&hide_border=true" /></a>
 
