@@ -30,8 +30,8 @@
 
 <h1>⚙️ Tools I Use</h1>
 
-<img height="50" width="50" src="https://img.icons8.com/?size=64&id=u9R54eMKS8fw&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height="50" width="50" src="https://img.icons8.com/?size=64&id=u9R54eMKS8fw&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=81726&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=13674&format=png&color=000000"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h1>📊 GitHub Stats:</h1>
 
