@@ -22,8 +22,7 @@
 
 <h1>💻 I Code in</h1>
 
-
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=20909&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=60&id=3BTBsJs5myRy&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=64&id=Nkym0Ujb8VGI&format=png" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />  <img height="50" width="50" src="https://img.icons8.com/?size=48&id=20909&format=png" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=60&id=3BTBsJs5myRy&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=64&id=Nkym0Ujb8VGI&format=png" />
 <img height="50" width="50" src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000"/>
 
